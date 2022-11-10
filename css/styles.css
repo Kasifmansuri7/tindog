@@ -156,6 +156,7 @@ p {
 @media (max-width: 990px) {
   #title {
     height: auto;
+    text-align: center;
   }
   h1 {
     font-size: 3rem;
